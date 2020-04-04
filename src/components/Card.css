@@ -9,10 +9,26 @@
 }
 
 img {
-	width: 13em;
-	height: 13em;
+	width: 13vw;
+	height: 13vw;
 }
 
 ul {
 	list-style: none;
+}
+
+h2 {
+	font-size: 1.8vw;
+}
+
+h3 {
+	font-size: 1.5vw;
+}
+
+h4 {
+	font-size: 1vw;
+}
+
+h5 {
+	font-size: 1vw;
 }
