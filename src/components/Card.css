@@ -9,8 +9,15 @@
 }
 
 img {
-	width: 13vw;
-	height: 13vw;
+	width: 13rem;
+	height: 13rem;
+}
+
+@media only screen and (max-width: 600px) {
+	img {
+		width: 8rem;
+		height: 8rem;
+	}
 }
 
 ul {
@@ -18,17 +25,17 @@ ul {
 }
 
 h2 {
-	font-size: 1.8vw;
+	font-size: 3.7vh;
 }
 
 h3 {
-	font-size: 1.5vw;
+	font-size: 3.3vh;
 }
 
 h4 {
-	font-size: 1vw;
+	font-size: 2.8vh;
 }
 
 h5 {
-	font-size: 1vw;
+	font-size: 2.3vh;
 }
