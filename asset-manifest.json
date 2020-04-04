@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/BuyYourNewSpaceship/static/css/main.3eea6116.chunk.css",
+    "main.js": "/BuyYourNewSpaceship/static/js/main.4923916c.chunk.js",
+    "main.js.map": "/BuyYourNewSpaceship/static/js/main.4923916c.chunk.js.map",
+    "runtime-main.js": "/BuyYourNewSpaceship/static/js/runtime-main.7fc3fd85.js",
+    "runtime-main.js.map": "/BuyYourNewSpaceship/static/js/runtime-main.7fc3fd85.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/BuyYourNewSpaceship/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.d48e123f.chunk.js": "/BuyYourNewSpaceship/static/js/2.d48e123f.chunk.js",
+    "static/js/2.d48e123f.chunk.js.map": "/BuyYourNewSpaceship/static/js/2.d48e123f.chunk.js.map",
+    "index.html": "/BuyYourNewSpaceship/index.html",
+    "precache-manifest.83b00e95c4ffcb6b4928cb793b8ae4ad.js": "/BuyYourNewSpaceship/precache-manifest.83b00e95c4ffcb6b4928cb793b8ae4ad.js",
+    "service-worker.js": "/BuyYourNewSpaceship/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/BuyYourNewSpaceship/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.3eea6116.chunk.css.map": "/BuyYourNewSpaceship/static/css/main.3eea6116.chunk.css.map",
+    "static/js/2.d48e123f.chunk.js.LICENSE.txt": "/BuyYourNewSpaceship/static/js/2.d48e123f.chunk.js.LICENSE.txt",
+    "static/media/deathstar.png": "/BuyYourNewSpaceship/static/media/deathstar.7887b016.png",
+    "static/media/index.css": "/BuyYourNewSpaceship/static/media/deep-space.0b5dd05f.jpg",
+    "static/media/ef76nebulon-bescortfrigate.png": "/BuyYourNewSpaceship/static/media/ef76nebulon-bescortfrigate.f95660bf.png",
+    "static/media/executor.png": "/BuyYourNewSpaceship/static/media/executor.c9833e4a.png",
+    "static/media/imperialshuttle.png": "/BuyYourNewSpaceship/static/media/imperialshuttle.40c3b0b7.png",
+    "static/media/millenniumfalcon.png": "/BuyYourNewSpaceship/static/media/millenniumfalcon.24b5ba99.png",
+    "static/media/sentinel-classlandingcraft.png": "/BuyYourNewSpaceship/static/media/sentinel-classlandingcraft.32921d48.png",
+    "static/media/slave1.png": "/BuyYourNewSpaceship/static/media/slave1.c45359a8.png",
+    "static/media/tieadvancedx1.png": "/BuyYourNewSpaceship/static/media/tieadvancedx1.8149544a.png",
+    "static/media/x-wing.png": "/BuyYourNewSpaceship/static/media/x-wing.ca146ec2.png",
+    "static/media/y-wing.png": "/BuyYourNewSpaceship/static/media/y-wing.adb26b07.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc3fd85.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.d48e123f.chunk.js",
+    "static/css/main.3eea6116.chunk.css",
+    "static/js/main.4923916c.chunk.js"
+  ]
+}
