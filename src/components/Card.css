@@ -39,3 +39,18 @@ h4 {
 h5 {
 	font-size: 2.3vh;
 }
+
+@media only screen and (max-width: 375px) {
+	h2 {
+		font-size: 2.8vh
+	}
+	h3 {
+		font-size: 2.3vh
+	}
+	h4 {
+		font-size: 1.7vh
+	}
+	h5 {
+		font-size: 1.5vh
+	}
+}
