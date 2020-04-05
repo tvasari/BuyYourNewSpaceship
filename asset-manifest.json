@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BuyYourNewSpaceship/static/css/main.7b27f871.chunk.css",
+    "main.css": "/BuyYourNewSpaceship/static/css/main.14a243ba.chunk.css",
     "main.js": "/BuyYourNewSpaceship/static/js/main.4923916c.chunk.js",
     "main.js.map": "/BuyYourNewSpaceship/static/js/main.4923916c.chunk.js.map",
     "runtime-main.js": "/BuyYourNewSpaceship/static/js/runtime-main.7fc3fd85.js",
@@ -9,10 +9,10 @@
     "static/js/2.d48e123f.chunk.js": "/BuyYourNewSpaceship/static/js/2.d48e123f.chunk.js",
     "static/js/2.d48e123f.chunk.js.map": "/BuyYourNewSpaceship/static/js/2.d48e123f.chunk.js.map",
     "index.html": "/BuyYourNewSpaceship/index.html",
-    "precache-manifest.e64b60d8bb4c88ef57e5f533e501fde8.js": "/BuyYourNewSpaceship/precache-manifest.e64b60d8bb4c88ef57e5f533e501fde8.js",
+    "precache-manifest.094450d3295dafff3a616e180948d0b1.js": "/BuyYourNewSpaceship/precache-manifest.094450d3295dafff3a616e180948d0b1.js",
     "service-worker.js": "/BuyYourNewSpaceship/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/BuyYourNewSpaceship/static/css/2.3b6f1bda.chunk.css.map",
-    "static/css/main.7b27f871.chunk.css.map": "/BuyYourNewSpaceship/static/css/main.7b27f871.chunk.css.map",
+    "static/css/main.14a243ba.chunk.css.map": "/BuyYourNewSpaceship/static/css/main.14a243ba.chunk.css.map",
     "static/js/2.d48e123f.chunk.js.LICENSE.txt": "/BuyYourNewSpaceship/static/js/2.d48e123f.chunk.js.LICENSE.txt",
     "static/media/deathstar.png": "/BuyYourNewSpaceship/static/media/deathstar.7887b016.png",
     "static/media/index.css": "/BuyYourNewSpaceship/static/media/deep-space.0b5dd05f.jpg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.7fc3fd85.js",
     "static/css/2.3b6f1bda.chunk.css",
     "static/js/2.d48e123f.chunk.js",
-    "static/css/main.7b27f871.chunk.css",
+    "static/css/main.14a243ba.chunk.css",
     "static/js/main.4923916c.chunk.js"
   ]
 }

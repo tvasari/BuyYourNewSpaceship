@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a19e0dbe754908a95b85c0a4066239de",
+    "revision": "f1e50efc0250a96460108650fe4e16d8",
     "url": "/BuyYourNewSpaceship/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BuyYourNewSpaceship/static/css/2.3b6f1bda.chunk.css"
   },
   {
-    "revision": "07cb024903c68ac6b535",
-    "url": "/BuyYourNewSpaceship/static/css/main.7b27f871.chunk.css"
+    "revision": "49fad63d9c7d3ab35619",
+    "url": "/BuyYourNewSpaceship/static/css/main.14a243ba.chunk.css"
   },
   {
     "revision": "bc2031c27084357c6ad6",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BuyYourNewSpaceship/static/js/2.d48e123f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07cb024903c68ac6b535",
+    "revision": "49fad63d9c7d3ab35619",
     "url": "/BuyYourNewSpaceship/static/js/main.4923916c.chunk.js"
   },
   {
