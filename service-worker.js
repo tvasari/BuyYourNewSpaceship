@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BuyYourNewSpaceship/precache-manifest.b79b5b99f872ec90429070f4871af129.js"
+  "/BuyYourNewSpaceship/precache-manifest.e64b60d8bb4c88ef57e5f533e501fde8.js"
 );
 
 self.addEventListener('message', (event) => {
