@@ -1,1 +1,1 @@
-@TODO Make pictures and text inside cards responsive for all devices and window sizes
+Single page REST API Project to help you buy your next spaceship!
